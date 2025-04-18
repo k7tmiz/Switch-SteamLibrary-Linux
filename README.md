@@ -8,10 +8,10 @@
 **STEAM_DIR**：代表你当前系统steam所在的地址  
 **STEAM_DIR**: Represents the address where your current system steam is located.
 
-**COMPATDATA_DIR**：代表你想调用的游戏库地址  
-**COMPATDATA_DIR**: Represents the address of the game library you want to call.
+**SHARED_DIR**：代表你想调用的游戏库地址  
+**SHARED_DIR**: Represents the address of the game library you want to call.
 
 **只须调整这两个参数便可以正常使用该脚本**  
 **Just adjust these two parameters to use the script normally.**
 
-
+> 参考：[Proton-Wiki](https://github.com/ValveSoftware/Proton/wiki/Using-a-NTFS-disk-with-Linux-and-Windows)
