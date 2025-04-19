@@ -6,7 +6,7 @@
 ### 使用说明:
 
 ```
-git clone git clone https://github.com/k7tmiz/Switch_SteamLibrary-in-Linux.git
+git clone https://github.com/k7tmiz/Switch_SteamLibrary-in-Linux.git
 ```
 
 ```
