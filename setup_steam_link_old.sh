@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash  
 STEAM_DIR="$HOME/.steam/steam/steamapps"
 SHARED_DIR="/run/media/Bruno/DATA/SteamLibrary/steamapps"
 
