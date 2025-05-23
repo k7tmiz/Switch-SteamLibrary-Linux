@@ -5,6 +5,7 @@ STEAM_DIR="$HOME/.steam/steam/steamapps"
 SHARED_DIR="/run/media/Bruno/DATA/SteamLibrary/steamapps"
 
 # 添加执行状态反馈
+echo "欢迎使用k7tmiz制作的脚本！"
 echo "▶ 开始处理 Steam 兼容数据目录迁移..."
 
 # 清理旧目录（增加存在性检查）
